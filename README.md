@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<!--
-**4W33/4W33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff"> 
 
-Here are some ideas to get you started:
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=4W33&show_icons=true&theme=radical"/>
+<!-- Most Used Languages -->  
+<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4W33&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&&langs_count=8&theme=react"/>  
+</p>
+
+- Discord: 4W3#0552
