@@ -10,5 +10,6 @@
 <p>
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4W33&show_icons=true&theme=radical"/>
+<img src="https://komarev.com/ghpvc/?username=4W33" alt="4W3" />
 
 - Discord: 4W3#0552
