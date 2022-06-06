@@ -4,8 +4,6 @@
 
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff"> 
-
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
