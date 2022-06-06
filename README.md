@@ -1,4 +1,5 @@
-<h2>Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi! I`m 15 years old. Front-End Developer located in Finland.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <img src="https://komarev.com/ghpvc/?username=4W33" alt="4W3" />
 
