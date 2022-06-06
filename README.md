@@ -14,4 +14,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4W33&show_icons=true&theme=radical"/>
  
 
-- Discord: 4W3#0552
+- Discord: 4W3#1710
