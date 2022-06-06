@@ -13,5 +13,6 @@
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4W33&show_icons=true&theme=radical"/>
  
+<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 4W3#1710
 
-- Discord: 4W3#1710
+
