@@ -1,0 +1,27 @@
+.bpw-header-container {
+    background: #000;
+    border: none;
+    color: #fff;
+}
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #000;
+    font-weight: 300;
+}
+
+.bpw-button {
+    border-color: orange;
+    border-radius: 2px;
+    color: orange;
+    margin: 2px 4px;
+    transition: all .1s;
+}
+
+.bpw-button:hover {
+    background: transparent;
+    border-color: black;
+}
+
+.bpw-layout {
+    border-radius: 5px;
+}
